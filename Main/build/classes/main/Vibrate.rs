@@ -1,0 +1,2 @@
+main.Echo
+main.Vibrate
